@@ -1,0 +1,16 @@
+plugins {
+    id "com.github.hierynomus.jython" version "0.10.0"
+}
+apply plugin: 'java-library'
+
+group 'se.alejo720'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation project(':interfaces')
+    implementation group: 'org.python', name: 'jython', version: '2.7.0'
+}

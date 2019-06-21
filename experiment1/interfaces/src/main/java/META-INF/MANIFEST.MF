@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: jython-2.7.0.jar scala-library-2.11.12.jar
+Main-Class: se.alejo720.experiment1rq1.javainterfaces.Main
+

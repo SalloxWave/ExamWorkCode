@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Gradle 1" modules="experiment1RQ1.interfaces.main,experiment1RQ1.interfaces.test,experiment1RQ1.logiclayer.main,experiment1RQ1.logiclayer.test,se.alejo720.interfaces.main,se.alejo720.interfaces.test,se.alejo720.logiclayer.main,se.alejo720.logiclayer.test">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-target:jvm-1.8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

@@ -1,0 +1,200 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main
+compile options:
+2 items
+0 -> -deprecation
+1 -> -unchecked
+javac options:
+9 items
+0 -> -source
+1 -> 1.8
+2 -> -target
+3 -> 1.8
+4 -> -d
+5 -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main
+6 -> -g
+7 -> -proc:none
+8 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$1.class
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$2.class
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$getGenres$1.class
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$loadMovies$1.class
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer.class
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\Movie.class
+binary dependencies:
+3 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\com.github.tototoshi\scala-csv_2.10\1.3.5\5a82401e613349664cc5d372b03f0268a9596001\scala-csv_2.10-1.3.5.jar
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se.alejo720.experiment1partb.datalayer.DataLayer
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se.alejo720.experiment1partb.datalayer.DataLayer$$anonfun$1
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se.alejo720.experiment1partb.datalayer.DataLayer$$anonfun$2
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se.alejo720.experiment1partb.datalayer.DataLayer$$anonfun$getGenres$1
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se.alejo720.experiment1partb.datalayer.DataLayer$$anonfun$loadMovies$1
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se.alejo720.experiment1partb.datalayer.Movie
+used names:
+94 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> !=
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> +
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> +=
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> <init>
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> <refinement>
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> <repeated>
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> A
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> A1
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Any
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> AnyRef
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Array
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> ArrayOps
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> B
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Boolean
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> CSVFormat
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> CSVReader
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> CanBuildFrom
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Char
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Coll
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> DataLayer
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> DefaultCSVFormat
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Duration
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> File
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Float
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Function1
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> GenTraversableOnce
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Instant
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Int
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> List
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Long
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Movie
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> MutableList
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Nothing
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Object
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Predef
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Set
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> String
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> StringOps
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> T
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Temporal
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> That
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> U
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> Unit
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> alejo720
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> all
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> apply
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> augmentString
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> avgScore
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> between
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> canBuildFrom
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> cavgScore
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> cgenres
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> collection
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> com
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> contains
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> csv
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> ctitle
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> datalayer
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> defaultCSVFormat
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> ends
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> experiment1partb
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> filter
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> flatMap
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> foreach
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> genre
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> genres
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> github
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> io
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> java
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> length
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> loadMovies
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> movies
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> mutable
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> now
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> open
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> package
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> path
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> println
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> reader
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> refArrayOps
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> res
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> row
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> scala
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> se
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> slice
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> split
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> starts
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> time
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> title
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> toFloat
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> toList
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> toMillis
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> toSet
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> tototoshi
+product stamps:
+6 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$1.class -> lastModified(1558426878184)
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$2.class -> lastModified(1558426878198)
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$getGenres$1.class -> lastModified(1558426878212)
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer$$anonfun$loadMovies$1.class -> lastModified(1558426878227)
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\DataLayer.class -> lastModified(1558426878162)
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\build\classes\scala\main\se\alejo720\experiment1partb\datalayer\Movie.class -> lastModified(1558426878238)
+source stamps:
+1 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> hash(43080937bcec5e03b6d048dd4ce238460be601a2)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> lastModified(1472651443522)
+C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\com.github.tototoshi\scala-csv_2.10\1.3.5\5a82401e613349664cc5d372b03f0268a9596001\scala-csv_2.10-1.3.5.jar -> lastModified(1555576339433)
+C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar -> lastModified(1553504199888)
+class names:
+3 items
+C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar -> java.lang.Object
+C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\com.github.tototoshi\scala-csv_2.10\1.3.5\5a82401e613349664cc5d372b03f0268a9596001\scala-csv_2.10-1.3.5.jar -> com.github.tototoshi.csv.CSVReader$
+C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar -> scala.Function1
+internal apis:
+1 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXRTROwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3tO6FXQACURhdGFMYXllcnNxAH4ADAGD0ZF0AAZub3RpZnlzcQB+AAwrZJ57dAAEd2FpdHNxAH4ADEfvujV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMRUAqxHQABHBhdGhzcQB+AAxOSKTBdAAEZW5kc3NxAH4ADMifHgx0AAZlcXVhbHNzcQB+AAzuUJO6dAAIYXZnU2NvcmVzcQB+AAzJmQowdAAMYXNJbnN0YW5jZU9mc3EAfgAMeTN0znQAEGdldE1vdmllc0J5R2VucmVzcQB+AAyR/WZmdAAMc3luY2hyb25pemVkc3EAfgAMuH/2gnQADSRpc0luc3RhbmNlT2ZzcQB+AAwMZ0dkdAAJbm90aWZ5QWxsc3EAfgAMHoInG3QADGlzSW5zdGFuY2VPZnNxAH4ADMoM0Jx0AAZtb3ZpZXNzcQB+AAyM5bPBdAAGPGluaXQ+c3EAfgAMsttUYHQAAj09c3EAfgAMkk/Yj3QABWNsb25lc3EAfgAMB9LnxXQABnN0YXJ0c3NxAH4ADHM3fbV0AAZnZW5yZXNzcQB+AAxr4ruWdAAIdG9TdHJpbmdzcQB+AAwUnXGSdAAFTW92aWVzcQB+AAyek3gidAACIT1zcQB+AAzkyFkhdAAIZ2V0Q2xhc3NzcQB+AAyhW5q6dAAFdGl0bGVzcQB+AAxl+9rkdAACbmVzcQB+AAyir1uSdAACZXFzcQB+AAxteTYEdAAJZ2V0R2VucmVzc3EAfgAMHfMbhXQAAiMjc3EAfgAMC+Ncu3QACGZpbmFsaXplc3EAfgAMkfCYd3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AVXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQALHNlLmFsZWpvNzIwLmV4cGVyaW1lbnQxcGFydGIuZGF0YWxheWVyLk1vdmlldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AG1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgByc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4AUAAAAABzcQB+AG11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHF0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHFzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIp0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AItzcQB+AH50AANBbnlzcQB+AIJzcQB+AIV1cQB+AIgAAAACc3EAfgCKdAAFc2NhbGFxAH4AkXNxAH4AUnEAfgBfdXEAfgBgAAAAAHNxAH4AYgB0ADBzZS5hbGVqbzcyMC5leHBlcmltZW50MXBhcnRiLmRhdGFsYXllci5EYXRhTGF5ZXJ1cQB+AGUAAAAAcQB+AGl1cQB+AGsAAAAAc3EAfgBtcQB+AHNzcQB+AG1zcQB+AHVzcQB+AG11cQB+AFAAAAAAc3EAfgBtdXEAfgBQAAAAAHNxAH4AbXVxAH4AfAAAAAJzcQB+AH5xAH4AgXNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIpxAH4AjXNxAH4AinEAfgCPcQB+AJFzcQB+AH5xAH4Ak3NxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIpxAH4AmHEAfgCRdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAmc2UuYWxlam83MjAuZXhwZXJpbWVudDFwYXJ0Yi5kYXRhbGF5ZXJzcQB+ALV0ABxzZS5hbGVqbzcyMC5leHBlcmltZW50MXBhcnRic3EAfgC1dAALc2UuYWxlam83MjBzcQB+ALV0AAJzZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABatl66kp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAB9QzpcVXNlcnNcQWxleGFuZGVySlxHb29nbGUgRHJpdmVcVW5pdmVyc2l0ZXRcRXhqb2JiXGludGVsbGlqaWRlYS1wcm9qZWN0c1xleHBlcmltZW50MXBhcnRCXGRhdGFsYXllclxidWlsZFxjbGFzc2VzXHNjYWxhXG1haW50AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRDCAk3vOxeA7bQSN1M4jhGC+YBog==
+external apis:
+0 items
+source infos:
+1 items
+C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea-projects\experiment1partB\datalayer\src\main\scala\se\alejo720\experiment1partb\datalayer\DataLayer.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABasZXjTZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfUM6XFVzZXJzXEFsZXhhbmRlckpcR29vZ2xlIERyaXZlXFVuaXZlcnNpdGV0XEV4am9iYlxpbnRlbGxpamlkZWEtcHJvamVjdHNcZXhwZXJpbWVudDFwYXJ0QlxkYXRhbGF5ZXJcYnVpbGRcY2xhc3Nlc1xzY2FsYVxtYWludAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABasZ+so91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfUM6XFVzZXJzXEFsZXhhbmRlckpcR29vZ2xlIERyaXZlXFVuaXZlcnNpdGV0XEV4am9iYlxpbnRlbGxpamlkZWEtcHJvamVjdHNcZXhwZXJpbWVudDFwYXJ0QlxkYXRhbGF5ZXJcYnVpbGRcY2xhc3Nlc1xzY2FsYVxtYWludAABLw==
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABatl66kp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfUM6XFVzZXJzXEFsZXhhbmRlckpcR29vZ2xlIERyaXZlXFVuaXZlcnNpdGV0XEV4am9iYlxpbnRlbGxpamlkZWEtcHJvamVjdHNcZXhwZXJpbWVudDFwYXJ0QlxkYXRhbGF5ZXJcYnVpbGRcY2xhc3Nlc1xzY2FsYVxtYWludAABLw==

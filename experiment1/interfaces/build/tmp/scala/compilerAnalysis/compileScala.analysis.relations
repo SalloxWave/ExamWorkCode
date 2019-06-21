@@ -1,0 +1,12 @@
+products:
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerFactory.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\build\classes\scala\main\se\alejo720\experiment1rq1\interfaces\DataLayerFactory.class
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerType.scala -> C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\build\classes\scala\main\se\alejo720\experiment1rq1\interfaces\DataLayerType.class
+binary dependencies:
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerFactory.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerType.scala -> C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerType.scala -> C:\Users\AlexanderJ\.gradle\caches\modules-2\files-2.1\org.scala-lang\scala-library\2.11.12\bf5534e6fec3d665bd6419c952a929a8bdd4b591\scala-library-2.11.12.jar
+source dependencies:
+external dependencies:
+class names:
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerFactory.scala -> se.alejo720.experiment1rq1.interfaces.DataLayerFactory
+   C:\Users\AlexanderJ\Google Drive\Universitet\Exjobb\intellijidea\interfaces\src\main\scala\se\alejo720\experiment1rq1\interfaces\DataLayerType.scala -> se.alejo720.experiment1rq1.interfaces.DataLayerType
